@@ -1,4 +1,5 @@
-# Crisper Games![CRISPER (2) (1)](https://github.com/user-attachments/assets/67921608-699f-4329-a4c3-c6adcada972a)
+# Crisper Games
+![CRISPER (1)](https://github.com/user-attachments/assets/6a91dae0-fa41-410e-8a34-39a708e19c61)
 
 
 Crisper Games is an innovative project created by a student at Patton Middle School in McMinnville, Oregon. Designed to bring fun to digital spaces where technology is tightly controlled, Crisper Games offers a collection of **HTML-based games**, **music**, and **digital tools** that can be enjoyed without needing installations or downloads.
